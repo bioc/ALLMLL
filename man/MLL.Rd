@@ -8,7 +8,7 @@ These \code{\link[affy:AffyBatch]{AffyBatch}} objects contain a subset of arrays
 large acute lymphoblastic leukemia (ALL) study,
 }
 \usage{
-data(MLL.A}
+data(MLL.A)
 data(MLL.B)
 }
 \format{Each are \code{\link[affy:AffyBatch]{AffyBatch}} containing 20 arrays.}

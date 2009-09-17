@@ -4,14 +4,14 @@
 \alias{MLL.B}
 \title{AffyBatch instances MLL.A and MLL.B}
 \description{
-These \code{\link[affy]{AffyBatch}} objects contain a subset
-of arrays from a large acute lymphoblastic leukemia (ALL) study,
+These \code{\link[affy:AffyBatch-class]{AffyBatch}} objects contain a subset
+of arrays from a large acute lymphoblastic leukemia (ALL) study.
 }
 \usage{
 data(MLL.A)
 data(MLL.B)
 }
-\format{Each are \code{\linkS4class[affy:AffyBatch-class]{AffyBatch}}
+\format{Each are \code{\link[affy:AffyBatch-class]{AffyBatch}}
   containing 20 arrays.} 
 \source{
   This package provides probe-level data for 20 HGU133A and 20 HGU133B

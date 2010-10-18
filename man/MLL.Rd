@@ -1,5 +1,5 @@
 \name{MLL}
-\docType{instance}
+\docType{data}
 \alias{MLL.A}
 \alias{MLL.B}
 \title{AffyBatch instances MLL.A and MLL.B}
